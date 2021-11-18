@@ -1,0 +1,10 @@
+C:\Users\asifo\source\repos\CustomList\AList\bin\Release\netcoreapp3.1\AList.deps.json
+C:\Users\asifo\source\repos\CustomList\AList\bin\Release\netcoreapp3.1\AList.dll
+C:\Users\asifo\source\repos\CustomList\AList\bin\Release\netcoreapp3.1\AList.pdb
+C:\Users\asifo\source\repos\CustomList\AList\obj\Release\netcoreapp3.1\AList.csproj.AssemblyReference.cache
+C:\Users\asifo\source\repos\CustomList\AList\obj\Release\netcoreapp3.1\AList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asifo\source\repos\CustomList\AList\obj\Release\netcoreapp3.1\AList.AssemblyInfoInputs.cache
+C:\Users\asifo\source\repos\CustomList\AList\obj\Release\netcoreapp3.1\AList.AssemblyInfo.cs
+C:\Users\asifo\source\repos\CustomList\AList\obj\Release\netcoreapp3.1\AList.csproj.CoreCompileInputs.cache
+C:\Users\asifo\source\repos\CustomList\AList\obj\Release\netcoreapp3.1\AList.dll
+C:\Users\asifo\source\repos\CustomList\AList\obj\Release\netcoreapp3.1\AList.pdb

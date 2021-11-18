@@ -1,0 +1,17 @@
+C:\Users\asifo\source\repos\CustomList\CustomList\bin\Release\netcoreapp3.1\CustomList.exe
+C:\Users\asifo\source\repos\CustomList\CustomList\bin\Release\netcoreapp3.1\CustomList.deps.json
+C:\Users\asifo\source\repos\CustomList\CustomList\bin\Release\netcoreapp3.1\CustomList.runtimeconfig.json
+C:\Users\asifo\source\repos\CustomList\CustomList\bin\Release\netcoreapp3.1\CustomList.runtimeconfig.dev.json
+C:\Users\asifo\source\repos\CustomList\CustomList\bin\Release\netcoreapp3.1\CustomList.dll
+C:\Users\asifo\source\repos\CustomList\CustomList\bin\Release\netcoreapp3.1\CustomList.pdb
+C:\Users\asifo\source\repos\CustomList\CustomList\bin\Release\netcoreapp3.1\AList.dll
+C:\Users\asifo\source\repos\CustomList\CustomList\bin\Release\netcoreapp3.1\AList.pdb
+C:\Users\asifo\source\repos\CustomList\CustomList\obj\Release\netcoreapp3.1\CustomList.csproj.AssemblyReference.cache
+C:\Users\asifo\source\repos\CustomList\CustomList\obj\Release\netcoreapp3.1\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asifo\source\repos\CustomList\CustomList\obj\Release\netcoreapp3.1\CustomList.AssemblyInfoInputs.cache
+C:\Users\asifo\source\repos\CustomList\CustomList\obj\Release\netcoreapp3.1\CustomList.AssemblyInfo.cs
+C:\Users\asifo\source\repos\CustomList\CustomList\obj\Release\netcoreapp3.1\CustomList.csproj.CoreCompileInputs.cache
+C:\Users\asifo\source\repos\CustomList\CustomList\obj\Release\netcoreapp3.1\CustomList.csproj.CopyComplete
+C:\Users\asifo\source\repos\CustomList\CustomList\obj\Release\netcoreapp3.1\CustomList.dll
+C:\Users\asifo\source\repos\CustomList\CustomList\obj\Release\netcoreapp3.1\CustomList.pdb
+C:\Users\asifo\source\repos\CustomList\CustomList\obj\Release\netcoreapp3.1\CustomList.genruntimeconfig.cache
